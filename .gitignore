@@ -1,0 +1,8 @@
+# Ignore machine learning model files
+*.h5
+*.pth
+*.pb
+*.onnx
+*.model
+*.ckpt
+*.pt
